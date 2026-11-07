@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/hetzner.hcloud/commit/c4375bb34a4c4125c262e2f4814c4b7aad268971",
       "git:hexsha": "c4375bb34a4c4125c262e2f4814c4b7aad268971",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T15:37:49.774727+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/hetzner.hcloud/commit/769a63ff22bfc3399d586d8010d21ce01cebc546",
