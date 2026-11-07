@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "hetzner.hcloud",
+  "versions": [
+    {
+      "commit": "c4375bb34a4c4125c262e2f4814c4b7aad268971",
+      "tag": "",
+      "parsed_at": "2026-11-07T15:37:49.775632+00:00"
+    }
+  ]
+}
